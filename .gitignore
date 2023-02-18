@@ -1,0 +1,7 @@
+# Ignored folders
+env
+
+# Ignored files
+credentials.json
+token.json
+
